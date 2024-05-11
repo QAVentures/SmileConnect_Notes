@@ -1,4 +1,4 @@
-site_name: QA Tech Ventures Guides & Resources
+site_name: SmileConnect Bridging Dental Health Disparities
 site_url: https://qatechventures.com
 theme:
   name: material
@@ -18,7 +18,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: orange
       accent: black 
     - scheme: slate 
       toggle:
