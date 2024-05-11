@@ -26,24 +26,30 @@ SmileConnect will help dentists build their credibility and market themselves as
 
 The vision of SmileConnect is to create a balanced, equitable distribution of dental services across India, empowering dental practitioners with the skills and tools they need to succeed, and providing cost-effective, accessible dental care to all. Through strategic partnerships and a commitment to innovation and quality, SmileConnect aims to lead the transformation of dental healthcare in India, ensuring a healthier future for every citizen.
 
+Certainly! Here are the sources provided in markdown link format:
+
+1. [Indian Journal of Forensic Medicine & Toxicology - Dental Health Care to the Rural Population](https://medicopublication.com/index.php/ijfmt/article/download/12944/11926/24722)
+2. [International Journal for Equity in Health - Oral Health Inequalities in India](https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-023-02056-5)
+3. [Undark - Why Incentives to Attract Doctors to Rural Areas Haven’t Worked](https://undark.org/2024/01/11/opinion-doctor-incentives-rural/)
+4. [IOSR Journal of Dental and Medical Sciences - Link not provided](https://www.iosrjournals.org/iosr-jdms/papers/Vol13-issue9/Version-2/N013926972.pdf)
+5. [HIV Nursing - Link not provided](https://hivnursing.net/index.php/hiv/article/view/1645)
+6. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10664303/)
+7. [Health eCareers - 5 Incentives to Practice Rural Medicine](https://www.healthecareers.com/career-resources/career-opportunities/5-incentives-to-practice-rural-medicine)
+8. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408701/)
+9. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740784/)
+10. [DentistryIQ - Why Electronic Health Records Need to Be Integrated into Dentistry](https://www.dentistryiq.com/practice-management/practice-management-software/article/55000854/why-electronic-health-records-need-to-be-integrated-into-dentistry)
+11. [Amazon - Integration of Medical and Dental Patient Informatics](https://www.amazon.com/Integration-Medical-Dental-Patient-Informatics/dp/3319982966)
+12. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5828896/)
+13. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10356718/)
+14. [AMA - Incentive Access Care Underserved](https://www.ama-assn.org/sites/ama-assn.org/files/corp/media-browser/public/about-ama/councils/Council%20Reports/council-on-medical-education/a07-cme-incentive-access-care-underserved.pdf)
+15. [NACO - Medical Programs Send Budding Doctors to Rural County ‘Healthcare Deserts’](https://www.naco.org/articles/medical-programs-send-budding-doctors-rural-county-%E2%80%98healthcare-deserts%E2%80%99)
+16. [ScienceDirect - Recipe for More Rural Physicians: More Exposure](https://www.sciencedirect.com/science/article/abs/pii/S0277953614006200)
+17. [AMA - Transition from Resident to Attending](https://www.ama-assn.org/medical-residents/transition-resident-attending/recipe-more-rural-physicians-more-exposure)
+18. [Native News Online - Electronic Dental Record System for the Indian Health Service](https://nativenewsonline.net/sponsored-content/designing-and-implementing-an-electronic-dental-record-system-for-the-indian-health-service)
+19. [LWW Journals - Integration of Oral Health in Primary Health Care](https://journals.lww.com/jped/Fulltext/2018/36010/Integration_of_oral_health_in_primary_health_care.17.aspx)
+20. [AAMC - Attracting the Next Generation of Physicians to Rural Medicine](https://www.aamc.org/news/attracting-next-generation-physicians-rural-medicine)
+
 Citations:
 [1] https://medicopublication.com/index.php/ijfmt/article/download/12944/11926/24722
 [2] https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-023-02056-5
 [3] https://undark.org/2024/01/11/opinion-doctor-incentives-rural/
-[4] https://www.iosrjournals.org/iosr-jdms/papers/Vol13-issue9/Version-2/N013926972.pdf
-[5] https://hivnursing.net/index.php/hiv/article/view/1645
-[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10664303/
-[7] https://www.healthecareers.com/career-resources/career-opportunities/5-incentives-to-practice-rural-medicine
-[8] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408701/
-[9] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8740784/
-[10] https://www.dentistryiq.com/practice-management/practice-management-software/article/55000854/why-electronic-health-records-need-to-be-integrated-into-dentistry
-[11] https://www.amazon.com/Integration-Medical-Dental-Patient-Informatics/dp/3319982966
-[12] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5828896/
-[13] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10356718/
-[14] https://www.ama-assn.org/sites/ama-assn.org/files/corp/media-browser/public/about-ama/councils/Council%20Reports/council-on-medical-education/a07-cme-incentive-access-care-underserved.pdf
-[15] https://www.naco.org/articles/medical-programs-send-budding-doctors-rural-county-%E2%80%98healthcare-deserts%E2%80%99
-[16] https://www.sciencedirect.com/science/article/abs/pii/S0277953614006200
-[17] https://www.ama-assn.org/medical-residents/transition-resident-attending/recipe-more-rural-physicians-more-exposure
-[18] https://nativenewsonline.net/sponsored-content/designing-and-implementing-an-electronic-dental-record-system-for-the-indian-health-service
-[19] https://journals.lww.com/jped/Fulltext/2018/36010/Integration_of_oral_health_in_primary_health_care.17.aspx
-[20] https://www.aamc.org/news/attracting-next-generation-physicians-rural-medicine

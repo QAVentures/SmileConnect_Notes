@@ -26,24 +26,30 @@ SmileConnect stands at the forefront of addressing dental health disparities in 
 
 For more information on how SmileConnect is making a difference in rural Gujarat and how you can support our mission, please visit our platform. Together, we can ensure a healthier, brighter future for the next generation.
 
+Certainly! Here are the sources provided in markdown link format:
+
+1. [Indian Healthguru - Top Dental Surgery Cost in India](https://www.indianhealthguru.com/dental-surgery-India-low-cost-benefits.html)
+2. [Financial Express - As oral illnesses continue to be major burden in India, dental care is still not a priority](https://www.financialexpress.com/healthcare/wellness/as-oral-illnesses-continue-to-be-major-burden-in-india-dental-care-is-still-not-a-priority/3105638/)
+3. [IDA - Community Health Initiatives](https://www.ida.org.in/Public/Details/Community-Health-Initiatives)
+4. [IDA - Public Details](https://www.ida.org.in/Public/Details/Public)
+5. [NCBI - Article PMC4408701](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408701/)
+6. [NCBI - Article PMC4095631](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4095631/)
+7. [NCBI - Article PMC4212394](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212394/)
+8. [Times of India - Is India lagging behind in maintaining dental hygiene?](https://timesofindia.indiatimes.com/blogs/voices/is-india-lagging-behind-in-maintaining-dental-hygiene/)
+9. [LWW Journals - Oral health awareness among undergraduate medical students](https://journals.lww.com/jdrr/fulltext/2022/09020/oral_health_awareness_among_undergraduate_medical.5.aspx)
+10. [NCBI - Article PMC5121803](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121803/)
+11. [LinkedIn - State of Dental Health in India](https://www.linkedin.com/pulse/state-dental-health-india-ujalacygnus)
+12. [Patna Dental - Dentist in India Patna](https://www.patnadental.com/dentist%2Bin%2Bindia%2Bpatna.html)
+13. [Brij Dental Clinic - Preventative Dental Services](https://www.brijdentalclinic.com/preventative-dental-services/)
+14. [Noida Dental Care - Treatment Charges](https://www.noidadentalcare.com/treatment-charges.htm)
+15. [Shanti Dentals - Affordable Rate List for Dental Care in Rohini](https://shantidentals.com/affordable-rate-list-for-dental-care-in-rohini/)
+16. [Sabka Dentist - Complete Price List Maharashtra](https://sabkadentist.com/complete-pricelist-maharashtra/)
+17. [ADS Dental Hospitals - Charges](https://www.adsdentalhospitals.com/charges/)
+18. [Economic Times - National Dentists Day 2023](https://economictimes.com/news/new-updates/national-dentists-day-2023-celebrating-the-contribution-of-dental-professionals-towards-ensuring-good-oral-hygiene/articleshow/98427478.cms)
+19. [ResearchGate - Dental Manpower in India: Changing Trends Up to 2020](https://www.researchgate.net/publication/357420829_Dental_Manpower_in_India_changing_trends_upto_2020_Running_title_Dental_Manpower_in_India_Title_Dental_Manpower_in_India_changing_trends_upto_2020_Aim_To_analyse_the_developing_trends_in_the_productio)
+20. [Smiling Teeth - Dental Treatment Price List](https://smilingteeth.co.in/dental-treatment-price-list/)
+
 Citations:
 [1] https://www.indianhealthguru.com/dental-surgery-India-low-cost-benefits.html
 [2] https://www.financialexpress.com/healthcare/wellness/as-oral-illnesses-continue-to-be-major-burden-in-india-dental-care-is-still-not-a-priority/3105638/
 [3] https://www.ida.org.in/Public/Details/Community-Health-Initiatives
-[4] https://www.ida.org.in/Public/Details/Public
-[5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408701/
-[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4095631/
-[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212394/
-[8] https://timesofindia.indiatimes.com/blogs/voices/is-india-lagging-behind-in-maintaining-dental-hygiene/
-[9] https://journals.lww.com/jdrr/fulltext/2022/09020/oral_health_awareness_among_undergraduate_medical.5.aspx
-[10] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121803/
-[11] https://www.linkedin.com/pulse/state-dental-health-india-ujalacygnus
-[12] https://www.patnadental.com/dentist%2Bin%2Bindia%2Bpatna.html
-[13] https://www.brijdentalclinic.com/preventative-dental-services/
-[14] https://www.noidadentalcare.com/treatment-charges.htm
-[15] https://shantidentals.com/affordable-rate-list-for-dental-care-in-rohini/
-[16] https://sabkadentist.com/complete-pricelist-maharashtra/
-[17] https://www.adsdentalhospitals.com/charges/
-[18] https://economictimes.com/news/new-updates/national-dentists-day-2023-celebrating-the-contribution-of-dental-professionals-towards-ensuring-good-oral-hygiene/articleshow/98427478.cms
-[19] https://www.researchgate.net/publication/357420829_Dental_Manpower_in_India_changing_trends_upto_2020_Running_title_Dental_Manpower_in_India_Title_Dental_Manpower_in_India_changing_trends_upto_2020_Aim_To_analyse_the_developing_trends_in_the_productio
-[20] https://smilingteeth.co.in/dental-treatment-price-list/

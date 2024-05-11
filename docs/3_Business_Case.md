@@ -48,24 +48,30 @@ SmileConnect begins its journey as a non-profit organization focused on providin
 
 The evolving business model of SmileConnect represents a strategic approach to expanding dental care services in a phased manner, starting from a non-profit base and moving towards integration with broader healthcare systems. Each phase builds on the previous one, gradually adding capabilities and expanding reach, while ensuring that the organization remains financially viable and true to its mission of providing accessible dental care.
 
+Certainly! Here are the sources provided in markdown link format:
+
+1. [Smile Perfection - Mobile Dentistry: A Solution for Those Who Can't Leave Their Home](https://www.smileperfectionaz.com/mobile-dentistry-a-solution-for-those-who-cant-leave-their-home/)
+2. [HR for Health - Revolutionizing Dental Care: The Rise of Mobile Dental Clinics](https://www.hrforhealth.com/blog/mobile-dental-clinics)
+3. [Summit Bodyworks - How Mobile Dental Clinics Are Helping Rural Locations](https://summitbodyworks.com/blog/mobile-medical/how-mobile-dental-clinics-are-helping-rural-locations/)
+4. [CDC - Link not provided](https://www.cdc.gov/pcd/issues/2021/21_0027.htm)
+5. [CareQuest - Medical-Dental Integration](https://www.carequest.org/system/files/CareQuest_Institute_Medical-Dental-Intergration_8.15.23.pdf)
+6. [TechTarget - UCSF Looks to EHR Integration of Dental Records for Patient-Centered Care](https://www.techtarget.com/searchhealthit/feature/UCSF-Looks-to-EHR-Integration-of-Dental-Records-for-Patient-Centered-Care)
+7. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618181/)
+8. [BoardEffect - Navigating Evolving Business Models in the Nonprofit Sector](https://www.boardeffect.com/blog/navigating-evolving-business-models-nonprofit-sector/)
+9. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6541474/)
+10. [Propel Nonprofits - Transforming Nonprofit Business Models](https://propelnonprofits.org/resources/transforming-nonprofit-business-models/)
+11. [Digital Commons - Murray State University](https://digitalcommons.murraystate.edu/cgi/viewcontent.cgi?article=1018&context=crsw)
+12. [HRSA - Integration of Oral Health](https://www.hrsa.gov/sites/default/files/hrsa/oral-health/integration-oral-health.pdf)
+13. [NCBI - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480282/)
+14. [Rural Health Info - Mobile Dental Services Model](https://www.ruralhealthinfo.org/toolkits/oral-health/2/mobile-dental-services-model)
+15. [Chorus America - Lessons Learned: Building Partnerships with Schools](https://chorusamerica.org/article/lessons-learned-building-partnerships-schools)
+16. [WEC CPA - Non-Profit to For-Profit: Some Organizations Are Making the Switch](https://www.wec.cpa/media-hub/non-profit-to-for-profit-some-organizations-are-making-the-switch)
+17. [Chess UChicago - Lakeside Dental Health Amid Urban Transformation](https://chess.uchicago.edu/programs/lakeside-dental-health-amid-urban-transformation/)
+18. [NCAN - How Can Nonprofits Partner with Higher Education](https://www.ncan.org/news/456165/How-Can-Nonprofits-Partner-with-Higher-Education.htm)
+19. [ICNL - The Nonprofit Paradox: For-Profit Business Models in the Third Sector](https://www.icnl.org/resources/research/ijnl/the-nonprofit-paradox-for-profit-business-models-in-the-third-sector)
+20. [Free Dental Care - Chicago](https://www.freedentalcare.us/ci/il-chicago)
+
 Citations:
 [1] https://www.smileperfectionaz.com/mobile-dentistry-a-solution-for-those-who-cant-leave-their-home/
 [2] https://www.hrforhealth.com/blog/mobile-dental-clinics
 [3] https://summitbodyworks.com/blog/mobile-medical/how-mobile-dental-clinics-are-helping-rural-locations/
-[4] https://www.cdc.gov/pcd/issues/2021/21_0027.htm
-[5] https://www.carequest.org/system/files/CareQuest_Institute_Medical-Dental-Intergration_8.15.23.pdf
-[6] https://www.techtarget.com/searchhealthit/feature/UCSF-Looks-to-EHR-Integration-of-Dental-Records-for-Patient-Centered-Care
-[7] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618181/
-[8] https://www.boardeffect.com/blog/navigating-evolving-business-models-nonprofit-sector/
-[9] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6541474/
-[10] https://propelnonprofits.org/resources/transforming-nonprofit-business-models/
-[11] https://digitalcommons.murraystate.edu/cgi/viewcontent.cgi?article=1018&context=crsw
-[12] https://www.hrsa.gov/sites/default/files/hrsa/oral-health/integration-oral-health.pdf
-[13] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480282/
-[14] https://www.ruralhealthinfo.org/toolkits/oral-health/2/mobile-dental-services-model
-[15] https://chorusamerica.org/article/lessons-learned-building-partnerships-schools
-[16] https://www.wec.cpa/media-hub/non-profit-to-for-profit-some-organizations-are-making-the-switch
-[17] https://chess.uchicago.edu/programs/lakeside-dental-health-amid-urban-transformation/
-[18] https://www.ncan.org/news/456165/How-Can-Nonprofits-Partner-with-Higher-Education.htm
-[19] https://www.icnl.org/resources/research/ijnl/the-nonprofit-paradox-for-profit-business-models-in-the-third-sector
-[20] https://www.freedentalcare.us/ci/il-chicago

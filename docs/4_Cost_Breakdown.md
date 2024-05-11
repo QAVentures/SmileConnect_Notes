@@ -67,23 +67,29 @@ The cost breakdown for SmileConnect's evolving business model is structured into
 
 The cost breakdown and unit economics for each phase of SmileConnect's business model highlight the financial implications of expanding dental care services to underserved areas in Ahmedabad and Gujarat. The value generated for students, doctors, and parents through improved health outcomes and access to care justifies the investment in each phase of the model. As SmileConnect evolves, it will continue to assess and adjust its cost structure and value proposition to ensure sustainability and impact.
 
+Certainly! Here are the sources provided in markdown link format:
+
+1. [MGM Dental College - NAAC Reports](https://mgmdchnavimumbai.edu.in/assets/pdfs/NAACReports.pdf)
+2. [Niva Bupa - 10 Things to Check before Porting Health Insurance Policy](https://www.nivabupa.com/health-insurance-articles/10-things-to-check-before-porting-health-insurance-policy.html)
+3. [Madhya Pradesh Planning Commission - MPES 2022-23](https://mpplanningcommission.gov.in/MPES%202022-23_English.pdf)
+4. [Adani Gas - Sustainability Report 2023](https://www.adanigas.com/-/media/Project/AdaniGas/Sustainability/Reports/Sustainability/Sustainability-Reports/ATGL-Sustainability-Report-2023.pdf)
+5. [Syracuse University - Surface](https://surface.syr.edu/cgi/viewcontent.cgi?article=1963&context=etd)
+6. [NHSRC India - We Care: Good, Replicable & Innovative Practices](https://nhsrcindia.org/sites/default/files/2021-07/We%20Care..-Good,%20Replicable%20%26%20Innovative%20Practices..pdf)
+7. [KIMSDU - NAAC SSR Vol I 2015](https://kvv.edu.in/data/NAAC/KIMSDU_SSR_Vol_I_2015.pdf)
+8. [Bay Area Council Economic Institute - The Bay Area, Silicon Valley, and India](http://www.bayareaeconomy.org/files/pdf/TheBayArea-SiliconValleyAndIndiaWeb.pdf)
+9. [DBT India - Annual Report 2022-23](https://dbtindia.gov.in/sites/default/files/Final%20Annual%20Report%20English%202022-23.pdf)
+10. [Apollo Hospitals - Apollo Excellence Report 2018](https://www.apollohospitals.com/apollo_pdf/apollo-excellence-report-2018-e-version.pdf)
+11. [Slideshare - Blue Ocean Strategy Healthcare Pakistan](https://www.slideshare.net/slideshow/blue-ocean-strategy-healthcare-pakistan/112759742)
+12. [ResearchGate - Hypnosis: The Lost Art of Green Pediatric Dentistry](https://www.researchgate.net/publication/350236461_Hypnosis_The_lost_art_of_green_pediatric_dentistry)
+13. [Rajasthan Foundation - Economic Review](https://foundation.rajasthan.gov.in/doc/economicreviewE.pdf)
+14. [Ministry of Health and Family Welfare India - Health Sector Policy Reform Options Database](https://cbhidghs.mohfw.gov.in/WriteReadData/l892s/HS%20PROD%20Entries.pdf)
+15. [Gujarat Planning Department - Development Plan 2022-23](https://planning.gujarat.gov.in/images/pdf/dp-eng-22-23.pdf)
+16. [USAID - Document PNADL304](https://pdf.usaid.gov/pdf_docs/pnadl304.pdf)
+17. [Jharkhand Finance - Economic Survey 2023-24](https://finance.jharkhand.gov.in/pdf/Budget_2024_25/Jharkhand_Economic_Survey_2023_24.pdf)
+18. [NSE India - IM MAXHEALTH Scheme Document](https://nsearchives.nseindia.com/corporates/offerdocument/scheme/IM_MAXHEALTH.pdf)
+19. [NACO - ANM Training Module](https://www.naco.gov.in/sites/default/files/Website%20file%20ANM%20English.pdf)
+
 Citations:
 [1] https://mgmdchnavimumbai.edu.in/assets/pdfs/NAACReports.pdf
 [2] https://www.nivabupa.com/health-insurance-articles/10-things-to-check-before-porting-health-insurance-policy.html
 [3] https://mpplanningcommission.gov.in/MPES%202022-23_English.pdf
-[4] https://www.adanigas.com/-/media/Project/AdaniGas/Sustainability/Reports/Sustainability/Sustainability-Reports/ATGL-Sustainability-Report-2023.pdf
-[5] https://surface.syr.edu/cgi/viewcontent.cgi?article=1963&context=etd
-[6] https://nhsrcindia.org/sites/default/files/2021-07/We%20Care..-Good,%20Replicable%20%26%20Innovative%20Practices..pdf
-[7] https://kvv.edu.in/data/NAAC/KIMSDU_SSR_Vol_I_2015.pdf
-[8] http://www.bayareaeconomy.org/files/pdf/TheBayArea-SiliconValleyAndIndiaWeb.pdf
-[9] https://dbtindia.gov.in/sites/default/files/Final%20Annual%20Report%20English%202022-23.pdf
-[10] https://www.apollohospitals.com/apollo_pdf/apollo-excellence-report-2018-e-version.pdf
-[11] https://www.slideshare.net/slideshow/blue-ocean-strategy-healthcare-pakistan/112759742
-[12] https://www.researchgate.net/publication/350236461_Hypnosis_The_lost_art_of_green_pediatric_dentistry
-[13] https://foundation.rajasthan.gov.in/doc/economicreviewE.pdf
-[14] https://cbhidghs.mohfw.gov.in/WriteReadData/l892s/HS%20PROD%20Entries.pdf
-[15] https://planning.gujarat.gov.in/images/pdf/dp-eng-22-23.pdf
-[16] https://pdf.usaid.gov/pdf_docs/pnadl304.pdf
-[17] https://finance.jharkhand.gov.in/pdf/Budget_2024_25/Jharkhand_Economic_Survey_2023_24.pdf
-[18] https://nsearchives.nseindia.com/corporates/offerdocument/scheme/IM_MAXHEALTH.pdf
-[19] https://www.naco.gov.in/sites/default/files/Website%20file%20ANM%20English.pdf

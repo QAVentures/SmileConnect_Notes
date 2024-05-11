@@ -33,24 +33,30 @@
 
 SmileConnect faces significant competition from both established dental clinics and government health initiatives. However, by leveraging government digital health initiatives like ABDM and focusing on unique service offerings, SmileConnect can carve out a niche in the dental healthcare sector in Gujarat. Strategic partnerships and adherence to government health data policies will be crucial for navigating the competitive landscape and achieving long-term success.
 
+Certainly! Here are the citations converted into markdown link format:
+
+1. [Top Dentist in India - Teeth Care Centre](https://teethcarecentre.com/dentist-ahmedabad-india/top-dentist-in-india/)
+2. [Dental Implants in Ahmedabad, India - Medical Tourism Co.](https://www.medicaltourismco.com/dental-implants-in-ahmedabad-india/)
+3. [Our Team - Dr. Pankti Patel](https://panktipatel.com/our-team.html)
+4. [Health and Family Welfare Statistics - Ministry of Statistics and Programme Implementation, Government of India](https://mospi.gov.in/93-health-and-family-welfare-statistics)
+5. [Healthcare Scenario of Gujarat 2023 - Hospaccx Consulting](https://hospaccxconsulting.com/healthcare-scenario-of-gujarat-2023/)
+6. [Health Expenditure, Total (% of GDP) - India - The World Bank](https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=IN)
+7. [Robust Improvement in Gujarat's Public Health Infra in Last Two Decades - Govt Data - Health ET](https://health.economictimes.indiatimes.com/news/industry/robust-improvement-in-gujarats-public-health-infra-in-last-two-decades-govt-data/106518604)
+8. [Dental Clinic for Women by Women - Ahmedabad, India - US Dental](https://www.usdental.in/blog/dental-clinic-for-women-by-women-ahmedabad-india/)
+9. [Specific Document - PIB Government of India](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/sep/doc2022923108401.pdf)
+10. [Ministry of Health and Family Welfare, Government of India](https://www.mohfw.gov.in)
+11. [Main Site - Ministry of Health and Family Welfare, Government of India](https://main.mohfw.gov.in)
+12. [Addressing Comprehensive Primary Healthcare in India - Journal of Family Medicine and Primary Care](https://journals.lww.com/jfmpc/fulltext/2020/09010/addressing_comprehensive_primary_healthcare_in.62.aspx)
+13. [SRESTHA Gujarat - Indian Institute of Public Health Gandhinagar](https://iiphg.edu.in/srestha-gujarat/)
+14. [Projects & Initiatives - Department of Science and Technology, Gujarat](https://dst.gujarat.gov.in/projects-initiatives.htm)
+15. [Medusind Solutions](https://www.medusind.com)
+16. [The Akshaya Patra Foundation in Gujarat - Idealist](https://www.idealist.org/en/nonprofit/1edd333ff12a4d91932d43fc6b38a8fe-the-akshaya-patra-foundation-in-gujarat-ahmedabad)
+17. [Data.gov.in - Open Government Data (OGD) Platform India](https://data.gov.in)
+18. [About Dr. Joshipura](https://drjoshipura.com/about/)
+19. [Gujarat Health Care Initiatives - CSRBOX](https://csrbox.org/India_organization_project_Gujarat-Health-Care-Initiatives_8008)
+20. [Initiatives - Government of Gujarat](https://www.gujaratindia.gov.in/initiatives/initiatives.htm?InitiativeId=jJr8IjlsO7h8X7hPx1JgSw%3D%3D)
+
 Citations:
 [1] https://teethcarecentre.com/dentist-ahmedabad-india/top-dentist-in-india/
 [2] https://www.medicaltourismco.com/dental-implants-in-ahmedabad-india/
 [3] https://panktipatel.com/our-team.html
-[4] https://mospi.gov.in/93-health-and-family-welfare-statistics
-[5] https://hospaccxconsulting.com/healthcare-scenario-of-gujarat-2023/
-[6] https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=IN
-[7] https://health.economictimes.indiatimes.com/news/industry/robust-improvement-in-gujarats-public-health-infra-in-last-two-decades-govt-data/106518604
-[8] https://www.usdental.in/blog/dental-clinic-for-women-by-women-ahmedabad-india/
-[9] https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/sep/doc2022923108401.pdf
-[10] https://www.mohfw.gov.in
-[11] https://main.mohfw.gov.in
-[12] https://journals.lww.com/jfmpc/fulltext/2020/09010/addressing_comprehensive_primary_healthcare_in.62.aspx
-[13] https://iiphg.edu.in/srestha-gujarat/
-[14] https://dst.gujarat.gov.in/projects-initiatives.htm
-[15] https://www.medusind.com
-[16] https://www.idealist.org/en/nonprofit/1edd333ff12a4d91932d43fc6b38a8fe-the-akshaya-patra-foundation-in-gujarat-ahmedabad
-[17] https://data.gov.in
-[18] https://drjoshipura.com/about/
-[19] https://csrbox.org/India_organization_project_Gujarat-Health-Care-Initiatives_8008
-[20] https://www.gujaratindia.gov.in/initiatives/initiatives.htm?InitiativeId=jJr8IjlsO7h8X7hPx1JgSw%3D%3D

@@ -51,24 +51,30 @@ The value proposition of SmileConnect is centered around enhancing dental health
 
 The evolving business model of SmileConnect presents substantial value generation opportunities for doctors at each phase, not only in terms of direct revenue increases but also through professional development, network expansion, and enhanced service capabilities. These benefits collectively contribute to a robust value proposition that supports the sustainable growth of the SmileConnect network and its mission to improve dental health care accessibility and quality across India.
 
+Certainly! Here are the sources provided in markdown link format:
+
+1. [Age and reasons for first dental visit: A cross-sectional study of children in Bengaluru, India](https://go.gale.com/ps/i.do?aty=open-web-entry&id=GALE%7CA608845247&issn=23195932&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&userGroupName=anon~7b1958c6&v=2.1)
+2. [Primary Oral Health Care in India: Vision or Dream?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5086011/)
+3. [Age, reason, and experiences regarding the first dental visit](https://journals.lww.com/aphd/fulltext/2023/21040/age)
+4. [PubMed - Link not provided](https://pubmed.ncbi.nlm.nih.gov/31198379/)
+5. [How medical students add value to care long before they earn their MD](https://www.ama-assn.org/education/accelerating-change-medical-education/how-medical-students-add-value-care-long-they-earn)
+6. [How medical schools are putting high-value care in the spotlight](https://www.ama-assn.org/education/changemeded-initiative/how-medical-schools-are-putting-high-value-care-spotlight)
+7. [Child's first dental visit in India: A reappraisal](https://journals.lww.com/jped/fulltext/2019/37020/child_s_first_dental_visit_in_india__a_reappraisal.1.aspx)
+8. [PubMed - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314499/)
+9. [PubMed - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6486797/)
+10. [Family Practice Management - Link not provided](https://www.aafp.org/pubs/fpm/issues/2021/0900/oa1.html)
+11. [Study shows medical students improve patient satisfaction](https://med.umn.edu/news/study-shows-medical-students-improve-patient-satisfaction)
+12. [PubMed - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8902175/)
+13. [Tandfonline - Link not provided](https://www.tandfonline.com/doi/full/10.1080/17538157.2021.1879810)
+14. [CMS - E-Health Records](https://www.cms.gov/priorities/key-initiatives/e-health/records)
+15. [Quality and Safety in Health Care - Link not provided](https://qualitysafety.bmj.com/content/29/12/1019)
+16. [BMJ - Link not provided](https://www.bmj.com/content/348/bmj.f7716)
+17. [What are the advantages of electronic health records?](https://www.healthit.gov/faq/what-are-advantages-electronic-health-records)
+18. [Medical schools teach value of patient-doctor relationships](https://www.usnews.com/education/articles/medical-schools-teach-value-of-patient-doctor-relationships)
+19. [PubMed - Link not provided](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10198592/)
+20. [HealthIT.gov - Improved Diagnostics & Patient Outcomes](https://www.healthit.gov/topic/health-it-and-health-information-exchange-basics/improved-diagnostics-patient-outcomes)
+
 Citations:
 [1] https://go.gale.com/ps/i.do?aty=open-web-entry&id=GALE%7CA608845247&issn=23195932&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&userGroupName=anon~7b1958c6&v=2.1
 [2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5086011/
-[3] https://journals.lww.com/aphd/fulltext/2023/21040/age,_reason,_and_experiences_regarding_the_first.21.aspx
-[4] https://pubmed.ncbi.nlm.nih.gov/31198379/
-[5] https://www.ama-assn.org/education/accelerating-change-medical-education/how-medical-students-add-value-care-long-they-earn
-[6] https://www.ama-assn.org/education/changemeded-initiative/how-medical-schools-are-putting-high-value-care-spotlight
-[7] https://journals.lww.com/jped/fulltext/2019/37020/child_s_first_dental_visit_in_india__a_reappraisal.1.aspx
-[8] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314499/
-[9] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6486797/
-[10] https://www.aafp.org/pubs/fpm/issues/2021/0900/oa1.html
-[11] https://med.umn.edu/news/study-shows-medical-students-improve-patient-satisfaction
-[12] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8902175/
-[13] https://www.tandfonline.com/doi/full/10.1080/17538157.2021.1879810
-[14] https://www.cms.gov/priorities/key-initiatives/e-health/records
-[15] https://qualitysafety.bmj.com/content/29/12/1019
-[16] https://www.bmj.com/content/348/bmj.f7716
-[17] https://www.healthit.gov/faq/what-are-advantages-electronic-health-records
-[18] https://www.usnews.com/education/articles/medical-schools-teach-value-of-patient-doctor-relationships
-[19] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10198592/
-[20] https://www.healthit.gov/topic/health-it-and-health-information-exchange-basics/improved-diagnostics-patient-outcomes
+[3] https://journals.lww.com/aphd/fulltext/2023/21040/age
